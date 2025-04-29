@@ -1,7 +1,8 @@
 # ATMega328p_TC1_WGM5
 <p>Arduino Nano fast PWM implementation</p>
 <br></br>
-</p>Generates a fast-pwm signal on pin D9, 50% duty cycle, 243KHz (nominal 244.144KHz), as provided hereby.</p>
+<p>Generates a fast-pwm signal on pin D9, 50% duty cycle, 243KHz (nominal 244.144KHz), as provided hereby.</p>
+<p>Leverages direct MCU register manipulation to adjust PWM waveform in frequency and duty-cycle.</p>
 <p>Adjust duty cycle with OCR1A.</p>
 <p>Adjust frequency with ICR1.</p>
 <p>Extends functionality on comparator detection via ISR TIMER1_COMPA vector.</p>
