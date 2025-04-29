@@ -20,7 +20,7 @@
 <br></br>
 <p>Acknowledgements:</p>
   <p>ACK1. Harvard-style references: MyBib Contributors (2019). Harvard Referencing Generator – FREE – (updated for 2019). [online] MyBib. Available at: https://www.mybib.com/tools/harvard-referencing-generator.</p>
-  <p>ACK2. Peer-checking and internet data scraping: Pi.ai. (2025). Pi, your personal AI. [online] Available at: https://pi.ai.</p>
+  <p>ACK2. Peer-checking and internet data scraping: Pi.ai. (2025). AVR PWM [thread]. Pi, your personal AI. [online] Available at: https://pi.ai.</p>
 <br></br>
 <p>Discussions:</p>
   <p>DS1. Arduino Forum. (2025). Is the Timer/Counter 0 limited to prescaler of 64? [online] Available at: https://forum.arduino.cc/t/is-the-timer-counter-0-limited-to-prescaler-of-64/1376889?u=j4v13r_987 [Accessed 29 Apr. 2025].</p>
