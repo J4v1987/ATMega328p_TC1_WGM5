@@ -12,6 +12,9 @@ Portfolio: https://sites.google.com/view/b-eng-jarl/home
 Arduino Forums: j4v13r_987
 GitHub: J4v1987
 
+History:
+  H1. Loaded to Arduino Nano V3 using Arduino IDE 2.3.6. Deemed operational as per read-me photograph.
+
 Further reading:
   FR1. Atmel (2015). ATmega328P 8-bit AVR Microcontroller with 32K Bytes In-System Programmable Flash DATASHEET. [online] Available at: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf.
 
