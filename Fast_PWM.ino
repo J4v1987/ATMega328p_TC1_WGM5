@@ -37,7 +37,7 @@ void setup() {
   // FR1: sec. 13.3.1, figure 1-1. 
   DDRB = (1 << DDB1);
 
-  // Reset the timer 1 register to assure initialization for 'zero'.
+  // Reset the timer 1 register to assure initialization from zero.
   // FR1: sec. 15.2.1, figure 15-1, figure 15-7.
   TCNT1 = 0;
   
