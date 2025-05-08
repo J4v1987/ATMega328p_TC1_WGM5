@@ -1,3 +1,4 @@
+![IMG_20250429_132206-a](https://github.com/user-attachments/assets/11b80d97-3cb2-4ddf-8716-7b2bfd8ed8ff)
 # ATMega328p_TC1_WGM5
 <p>Arduino Nano fast PWM implementation</p>
 <br></br>
@@ -7,8 +8,6 @@
 <p>Adjust frequency with ICR1.</p>
 <p>Extends functionality on comparator detection via ISR TIMER1_COMPA vector.</p>
 <p>Leverages Timer/Counter1 register to offer best hardware MCU resolution of 16bit.</p>
-<br></br>
-![IMG_20250429_132206-a](https://github.com/user-attachments/assets/11b80d97-3cb2-4ddf-8716-7b2bfd8ed8ff)
 <br></br>
 <p>By: Javier.</p>
 <p>Portfolio: https://sites.google.com/view/b-eng-jarl/home</p>
